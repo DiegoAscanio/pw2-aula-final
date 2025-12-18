@@ -1588,7 +1588,7 @@ Se você acessar apenas [http://localhost:8080/webapp/](http://localhost:8080/we
 
 ```html
     <br>
-    <a href="refeicao/index.html">Go to Refeição Model CRUD Operations</a><
+    <a href="/webapp/refeicao">Go to Refeição Model CRUD Operations</a>
 ```
 
 <script>
